@@ -1,0 +1,13 @@
+pip install --name--
+
+flet
+playsound
+Pyrebase4
+pytesseract
+translate
+gTTS
+langdetect
+SpeechRecognition
+cv2
+sockets
+threading
